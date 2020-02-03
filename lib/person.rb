@@ -10,3 +10,5 @@ def sit
   puts "The Person is walking"
   end
 end
+Eddie = Person.new
+Eddie.walk
