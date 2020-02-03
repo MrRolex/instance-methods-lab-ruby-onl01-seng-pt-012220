@@ -4,8 +4,8 @@ class Person
     puts "Hello World!"
    end
 end
-fido = Dog.new
-fido.bark
+Eddie = Person.new
+Eddie.talk
 def walk
   puts "The Person is walking"
   end
