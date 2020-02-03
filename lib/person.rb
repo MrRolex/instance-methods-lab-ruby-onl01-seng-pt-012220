@@ -6,7 +6,7 @@ class Person
 end
 fido = Dog.new
 fido.bark
-def sit
+def walk
   puts "The Person is walking"
   end
 end
