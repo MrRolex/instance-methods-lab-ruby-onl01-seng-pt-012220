@@ -1,4 +1,4 @@
-class Person
+class person
   
   def talk
     puts "Hello World!"
