@@ -10,3 +10,6 @@ def walk
   end
 end
 
+fido = Person.new
+fido.talk
+fido.walk
