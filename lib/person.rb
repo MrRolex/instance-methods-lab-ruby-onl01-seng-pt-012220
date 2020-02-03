@@ -6,6 +6,6 @@ class Person
 end
 
 def sit
-  puts "The Dog is sitting"
+  puts "The Person is walking"
   end
 end
